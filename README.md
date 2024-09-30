@@ -25,10 +25,15 @@ Welcome to my GitHub profile! I'm Aasif Nazir Shah, a passionate software develo
    - **Technologies Used:** Java, Spring Boot, PostgreSQL, Thymeleaf
    - **Repository:** [Online Bookstore Project](https://github.com/AasifNazir786/Online-Book-Store.git)
 
-### 2. **Simple Project Management Project**
+### 2. **Simple Product Management Project**
    - **Description:** A JDBC-based project for demonstrating CRUD operations using PostgreSQL without Spring.
    - **Technologies Used:** Java, JDBC, PostgreSQL
    - **Repository:** [Simple product management Project](https://github.com/AasifNazir786/productmanagement.git)
+
+### 3. **Hibernate-Project**
+   - **Description:** A Hibernate-based project for demonstrating CRUD operations using PostgreSQL using a buildtool(Maven).
+   - **Technologies Used:** Java, Hibernate, PostgreSQL, Maven.
+   - **Repository:** [Hibernate-Project](https://github.com/AasifNazir786/Hibernate-Project.git)
 
 ## 🌟 Skills
 
